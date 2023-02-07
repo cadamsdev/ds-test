@@ -1,0 +1,25 @@
+{
+  "name": "ds-button",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "chadalen <me@chadalen.com>",
+  "homepage": "https://github.com/chadalen/ds-test#readme",
+  "license": "ISC",
+  "main": "lib/ds-button.js",
+  "directories": {
+    "src": "src"
+  },
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadalen/ds-test.git"
+  },
+  "scripts": {
+    "build": "tsc --outDir dist --sourceMap"
+  },
+  "bugs": {
+    "url": "https://github.com/chadalen/ds-test/issues"
+  }
+}
