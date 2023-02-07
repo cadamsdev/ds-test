@@ -21,5 +21,8 @@
   },
   "bugs": {
     "url": "https://github.com/chadalen/ds-test/issues"
+  },
+  "dependencies": {
+    "lit": "^2.6.1"
   }
 }
