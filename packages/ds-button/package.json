@@ -21,6 +21,7 @@
     "url": "https://github.com/chadalen/ds-test/issues"
   },
   "dependencies": {
+    "@chadalen/ds-icon": "^0.0.9",
     "lit": "^2.6.1"
   },
   "exports": {
