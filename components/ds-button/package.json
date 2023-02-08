@@ -14,8 +14,7 @@
     "url": "git+https://github.com/chadalen/ds-test.git"
   },
   "scripts": {
-    "build": "tsc --outDir dist --sourceMap",
-    "start": "tsc --outDir dist --sourceMap --watch"
+    "build": "tsc --outDir dist --sourceMap"
   },
   "bugs": {
     "url": "https://github.com/chadalen/ds-test/issues"

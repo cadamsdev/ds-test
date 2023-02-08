@@ -1,6 +1,9 @@
 {
   "name": "root",
   "private": true,
+  "scripts": {
+    "start": "npx lerna watch -- npx lerna run build --scope=\\$LERNA_PACKAGE_NAME --include-dependents"
+  },
   "workspaces": [
     "styles/*",
     "components/*",
