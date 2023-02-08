@@ -10,5 +10,6 @@ npx lerna bootstrap
 ```
 (This installs the dependencies for all the packages)
 
-2. Run command `npm run storybook` (This starts storybook)
-3. Run command `npm run watch` (This will rebuild packages if they are changed)
+2. Run command `npm run start` (This will build the packages then watch for changes)
+
+3. Run command `npm run storybook` (This starts storybook)

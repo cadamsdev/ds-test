@@ -3,6 +3,8 @@
   "private": true,
   "scripts": {
     "watch": "npx lerna watch -- npx lerna run build --scope=\\$LERNA_PACKAGE_NAME --include-dependents",
+    "build": "npx lerna run build",
+    "start": "npm run build && npm run watch",
     "storybook": "npx lerna run storybook"
   },
   "workspaces": [
