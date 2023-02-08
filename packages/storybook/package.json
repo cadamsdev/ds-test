@@ -1,6 +1,6 @@
 {
   "name": "storybook",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "> TODO: description",
   "author": "chadalen <me@chadalen.com>",
   "homepage": "https://github.com/chadalen/ds-test#readme",
@@ -38,6 +38,6 @@
   },
   "gitHead": "5f36bd68e82277ab74fceff7f619cf35ba6e4d19",
   "dependencies": {
-    "@chadalen/ds-button": "^0.0.5"
+    "@chadalen/ds-button": "^0.0.6"
   }
 }

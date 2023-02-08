@@ -1,11 +1,11 @@
 {
   "name": "@chadalen/css-tokens",
-  "version": "0.0.1",
+  "version": "0.0.6",
   "description": "> TODO: description",
   "author": "chadalen <me@chadalen.com>",
   "homepage": "https://github.com/chadalen/ds-test#readme",
   "license": "ISC",
-  "main": "index.js", 
+  "main": "index.js",
   "files": [
     "dist"
   ],
