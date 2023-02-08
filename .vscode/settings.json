@@ -1,0 +1,5 @@
+{
+  "cssvar.files": [
+    "packages/css-tokens/dist/*.css"
+  ]
+}
