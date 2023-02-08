@@ -1,6 +1,6 @@
 {
   "name": "storybook",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "> TODO: description",
   "author": "chadalen <me@chadalen.com>",
   "homepage": "https://github.com/chadalen/ds-test#readme",
@@ -25,16 +25,16 @@
   "bugs": {
     "url": "https://github.com/chadalen/ds-test/issues"
   },
-    "devDependencies": {
-      "@babel/core": "^7.20.12",
-      "@storybook/addon-actions": "^6.5.16",
-      "@storybook/addon-essentials": "^6.5.16",
-      "@storybook/addon-links": "^6.5.16",
-      "@storybook/builder-webpack4": "^6.5.16",
-      "@storybook/manager-webpack4": "^6.5.16",
-      "@storybook/web-components": "^6.5.16",
-      "babel-loader": "^8.3.0",
-      "lit-html": "^2.6.1"
-    },
+  "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "@storybook/addon-actions": "^6.5.16",
+    "@storybook/addon-essentials": "^6.5.16",
+    "@storybook/addon-links": "^6.5.16",
+    "@storybook/builder-webpack4": "^6.5.16",
+    "@storybook/manager-webpack4": "^6.5.16",
+    "@storybook/web-components": "^6.5.16",
+    "babel-loader": "^8.3.0",
+    "lit-html": "^2.6.1"
+  },
   "gitHead": "8b382dc2bed7661e0825be7891bb17505dc6ee04"
 }
