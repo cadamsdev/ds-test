@@ -5,7 +5,6 @@
   "author": "chadalen <me@chadalen.com>",
   "homepage": "https://github.com/chadalen/ds-test#readme",
   "license": "ISC",
-  "main": "index.js",
   "files": [
     "dist"
   ],

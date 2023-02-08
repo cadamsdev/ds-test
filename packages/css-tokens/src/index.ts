@@ -27,7 +27,7 @@ function createCssContents(): string {
   contents += ':root {\n';
 
   Object.entries(tokens.colors).forEach(([key, value]) => {
-    contents += `\t--ecs-atlas-color-${key}: ${value}\n`;
+    contents += `\t--ecs-atlas-color-${key}: ${value};\n`;
   });
 
   contents += '}\n';
@@ -36,7 +36,7 @@ function createCssContents(): string {
 }
 
 function writeCssFile(contents: string): void {
-  writeFileSync('./dist/styles.css', contents);
+  writeFileSync('./dist/index.css', contents);
 }
 
 function getTokens(): Tokens {
