@@ -36,5 +36,5 @@
     "babel-loader": "^8.3.0",
     "lit-html": "^2.6.1"
   },
-  "gitHead": "8b382dc2bed7661e0825be7891bb17505dc6ee04"
+  "gitHead": "45cb787f234ed35f595c84eba1e19acd49080a14"
 }
