@@ -19,7 +19,7 @@
   },
   "scripts": {
     "test": "node ./__tests__/storybook.test.js",
-    "storybook": "start-storybook -p 6006",
+    "storybook": "start-storybook -p 6006 --no-open",
     "build-storybook": "build-storybook"
   },
   "bugs": {
