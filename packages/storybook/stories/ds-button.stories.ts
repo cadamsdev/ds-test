@@ -2,7 +2,7 @@
 
 import { html } from 'lit-html';
 
-import '@chadalen/ds-button/dist';
+import '@chadalen/ds-button';
 
 export default {
   title: 'Button',
