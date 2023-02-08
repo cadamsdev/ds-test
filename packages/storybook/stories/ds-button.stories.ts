@@ -8,4 +8,4 @@ export default {
   title: 'Button',
 };
 
-export const Primary = () => html`<ds-button>Button 1</ds-button>`;
+export const Primary = () => html`<ds-button>Button</ds-button>`;
