@@ -5,23 +5,26 @@
   "author": "chadalen <me@chadalen.com>",
   "homepage": "https://github.com/chadalen/ds-test#readme",
   "license": "ISC",
-  "main": "lib/ds-icon.js",
-  "directories": {
-    "lib": "lib",
-    "test": "__tests__"
-  },
+  "main": "dist/index.js",
   "files": [
-    "lib"
+    "dist"
   ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chadalen/ds-test.git"
   },
   "scripts": {
-    "test": "node ./__tests__/ds-icon.test.js"
+    "build": "tsc --outDir dist --sourceMap",
+    "start": "tsc --outDir dist --sourceMap --watch"
   },
   "bugs": {
     "url": "https://github.com/chadalen/ds-test/issues"
+  },
+  "dependencies": {
+    "lit": "^2.6.1"
+  },
+  "exports": {
+    ".": "./dist/index.js"
   },
   "gitHead": "dc662597df9f813ceaf01047a59c6cdf7d1cd619"
 }

@@ -9,3 +9,5 @@ export default {
 };
 
 export const Primary = () => html`<ds-button>Button</ds-button>`;
+
+export const WithIcon = () => html`<ds-button has-icon>Button</ds-button>`;
