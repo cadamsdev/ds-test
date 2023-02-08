@@ -6,11 +6,8 @@
   "homepage": "https://github.com/chadalen/ds-test#readme",
   "license": "ISC",
   "main": "lib/ds-button.js",
-  "directories": {
-    "src": "src"
-  },
   "files": [
-    "src"
+    "dist"
   ],
   "repository": {
     "type": "git",
