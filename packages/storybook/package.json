@@ -36,5 +36,8 @@
     "babel-loader": "^8.3.0",
     "lit-html": "^2.6.1"
   },
-  "gitHead": "45cb787f234ed35f595c84eba1e19acd49080a14"
+  "gitHead": "45cb787f234ed35f595c84eba1e19acd49080a14",
+  "dependencies": {
+    "@chadalen/ds-button": "^0.0.4"
+  }
 }
